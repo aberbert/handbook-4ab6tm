@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aberbert.github.io/handbook-4ab6tm/sitemap.xml
